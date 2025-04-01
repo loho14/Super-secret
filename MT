@@ -21,6 +21,6 @@
 <body>
     <h1>April Fools!</h1>
     <p>Bet you weren't expecting this lol</p>
-    <img src="https://github.com/loho14/Super-secret/commit/840f7671db8fb69cc38d6bba6c367db2578a87d9#diff-ea5379433c7657c179b1ee9ff91eae7cd8f90ccea8709efdb30aff1e3a6298c1" alt="Prank Image" width="300">
+    <img src="https://raw.githubusercontent.com/loho14/Super-secret/4d40bdef98303103be7421438b4571239236a986/smirnoff%20ice.webp" alt="Prank Image" width="300">
 </body>
 </html>
